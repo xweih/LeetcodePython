@@ -6,10 +6,10 @@ Created on Fri Jun 18 12:15:24 2021
 """
 
 
-s = "ADOBECODEBANC"
+s = "ADOBECODEBANCA"
 t = "ABC"
-
-def minWindow(s,t):
+ 
+def minWindow(s,t): 
     window = []
     for letter_s in s:
         if letter_s == t[0]:
