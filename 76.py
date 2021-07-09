@@ -6,7 +6,7 @@ Created on Fri Jun 18 12:15:24 2021
 """
 
 
-s = "ADOBECODEBANC"
+s = "ADOBECODEBANXXC"   
 t = "ABC"
 
 def minWindow(s,t):
