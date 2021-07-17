@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jun 18 12:10:45 2021
-
-206. Reverse Linked List
+h
+206. Reverse Linked List    
 """
 
 
-def reverselist(nums):
+def reverselist(nums): 
     first = head
     if (not first) or (not first.next): return first
 
